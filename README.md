@@ -1,4 +1,4 @@
-# Paper-Plane
+# Paper-Plane-flying-distance
 STA305 (Experimental Design) Group Project
 
 ## Project Overview
